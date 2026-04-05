@@ -5,7 +5,7 @@ Sou uma entusiasta da tecnologia de 18 anos, atualmente cursando <b>Análise e D
 
 # 💫 Sobre mim:
 - 🎓 Cursando ADS na SPTech.
-- 🎯 Objetivo: Atuar como Desenvolvedor Back-end ou Analista de Dados.
+- 🎯 Objetivo: Atuar como Desenvolvedor Back-end.
 - 💡 Busco constantemente aprimorar minhas habilidades técnicas e resolver problemas complexos através do código.
 
 
