@@ -21,7 +21,7 @@ Sou uma entusiasta da tecnologia de 18 anos, atualmente cursando <b>Análise e D
 
 ## 📫 Vamos nos conectar?
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samara.machata@sptech.school) 
-[LinkedIn](https://linkedin.com/in/SamaraMachata)
+[LinkedIn](https://linkedin.com/in/Samara-Machata)
 
 
 ---
